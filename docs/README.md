@@ -15,12 +15,6 @@ Entre suas principais funcionalidades estão:
 - Cadastro de jogadores
 - Confirmação de presença
 - Lista de espera automática
-- Controle de pagamentos
-- Sorteio de equipes
-- Cronômetro das partidas
-- Registro de placares
-- Registro de gols
-- Ranking do racha
 - Histórico das partidas
 
 ---
