@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+:root{
+  font-family: Inter, sans-serif;
+
+  --color-primary:#16A34A;
+  --color-background:#F8FAFC;
+  --color-surface:#FFFFFF;
+  --color-text:#1F2937;
+  --color-danger:#EF4444;
+  --color-warning:#F59E0B;
+}
+
+body{
+  margin:0;
+  padding:0;
+  background:var(--color-background);
+  color:var(--color-text);
+}
+
+*{
+  box-sizing:border-box;
+}
+
+button{
+  cursor:pointer;
+}
